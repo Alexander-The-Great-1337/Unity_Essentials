@@ -1,0 +1,40 @@
+[Linha gerada pelo Unity]
+[Linha para ignorar coisas do sistema]
+[Linha para builds, IDEs e cache]
+
+# Unity
+[Linha para ignorar arquivos específicos]
+
+/[Linha de pastas e arquivos temporários]
+
+/Library/
+Temp/
+Obj/
+Build/
+Logs/
+MemoryCaptures/
+
+# User-specific files
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# IDEs
+.vscode/
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+*.apk
+*.aab
+*.ipa
+*.exe
+*.dll
